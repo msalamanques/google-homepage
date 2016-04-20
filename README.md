@@ -1,2 +1,2 @@
 # google-homepage
-first repository for the odin project
+first repository for the odin project: http://www.theodinproject.com/web-development-101/html-css
