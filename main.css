@@ -1,0 +1,52 @@
+body {
+
+}
+#mainElements{
+	text-align: center;
+}
+
+#searchBox{
+	width:484px;
+	height: 44px;
+}
+
+#googlelogo{
+	height: 92px;
+	width: 272px;
+	padding-top: 109px;
+	padding-bottom: 20px;
+}
+#logo{
+	margin-top: 69px;
+}
+
+#topNavbar{
+	text-align: right;
+	height:20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+}
+
+li a{
+	text-decoration: none;
+	color: #737373;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+}
+
+li{
+	display: inline;
+}
+
+
+li a:hover {
+    text-decoration: underline;
+}
+
+img.topNav{
+	height: 15px;
+}
